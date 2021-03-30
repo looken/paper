@@ -1,4 +1,4 @@
-![lookend](lookend.png)
+![lookend](https://github.com/looken/paper/blob/main/logo.png?raw=true)
 
 # paper
 Famous works
